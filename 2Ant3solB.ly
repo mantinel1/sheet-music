@@ -1,3 +1,5 @@
+%%%% Copyright: Pammer Tamás
+
 \version "2.22.1"
 \layout {
   ragged-last = ##f
